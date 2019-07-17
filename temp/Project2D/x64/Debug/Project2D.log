@@ -1,0 +1,11 @@
+﻿  GameManager.cpp
+c:\users\alexm\desktop\programming\wrapper\project2d\gamemanager.cpp(53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\alexm\desktop\programming\wrapper\project2d\gamemanager.cpp(78): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\alexm\desktop\programming\wrapper\project2d\gamemanager.cpp(79): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\alexm\desktop\programming\wrapper\project2d\gamemanager.cpp(80): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\alexm\desktop\programming\wrapper\project2d\gamemanager.cpp(81): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\alexm\desktop\programming\wrapper\project2d\gamemanager.cpp(88): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\alexm\desktop\programming\wrapper\project2d\gamemanager.cpp(89): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\alexm\desktop\programming\wrapper\project2d\gamemanager.cpp(90): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\alexm\desktop\programming\wrapper\project2d\gamemanager.cpp(91): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Project2D.vcxproj -> C:\Users\alexm\Desktop\Programming\Wrapper\temp\Project2D\x64\Debug\Project2D.exe
